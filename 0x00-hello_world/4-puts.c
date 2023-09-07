@@ -1,11 +1,7 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
- * main - Entry point
- *
- * Description: 'the program's description'
- * @parameter: describe the parameter
- *
- * return: Always 0 (success)
+ * Description: main - prints out astring to stdout.
+ * return: 0 if success.
  */
 int main(void)
 {
