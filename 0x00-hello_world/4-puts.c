@@ -2,7 +2,8 @@
 /**
  * main - Entry point
  *
- * describation: A C programme that print with put function
+ * Description: 'the program's description'
+ * @parameter: describe the parameter
  *
  * return: Always 0 (success)
  */
